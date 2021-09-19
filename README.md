@@ -18,7 +18,7 @@ I have been given a file named Develop, which contains the starter code to refac
 ## **Demo**
 #
 <p align="center">
-<img src="Develop/assets/demo/01-html-css-git-homework-demo.png">
+<img src="assets/demo/01-html-css-git-homework-demo.png">
 </p>
 
 ## **Changes Made**
