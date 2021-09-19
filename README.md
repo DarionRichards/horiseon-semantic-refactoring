@@ -6,6 +6,7 @@
 2.  [Descripton](#description)
 3.  [Demo](#demo)
 4.  [Changes Made](#changes-made)
+5.  [Deployed Page URL](#deployed-page-url)
 
 ## **Introduction**
 #
@@ -49,3 +50,7 @@ navigation bar.
 3. Deleted duplicated CSS attributes used within seperate CSS selectors
 
 4. Renamed CSS selectors 
+
+## Deployed Page URL
+#
+## https://darionrichards.github.io/horiseon-semantic-refactoring/
